@@ -1,3 +1,5 @@
+# A ComfyUI implementation of Facebook Perception Models: Powerful Models for Image and Video Perception
+
 # Perception Models: Powerful Models for Image and Video Perception
 
 This repo is the home to the state-of-the-art for image and video _perception_: [**Perception Encoder (PE)**](https://arxiv.org/abs/2504.13181) for image and video encoding and [**Perception Language Model (PLM)**](https://arxiv.org/abs/2504.13180) for decoding.
